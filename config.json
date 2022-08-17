@@ -5,5 +5,5 @@
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (test1234(remember_no_spaces)) (test1234(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"login-cmd":"/login (test1234)"
 }
